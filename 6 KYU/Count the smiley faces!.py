@@ -5,4 +5,4 @@ def count_smileys(arr):
     for a in arr:
         if a in smfac:
             sf += 1
-    return sf
+    return sf 
